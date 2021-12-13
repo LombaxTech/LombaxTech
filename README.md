@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Rakib
 
-#### I am a Web Developer!
+#### I am a Web Developer and Engineer!
 
-![I am a Web Developer!](https://miro.medium.com/max/4096/1*0iWxiJg9YU-YSJYhY14JLg.png)
+![I am a Web Developer!](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/373d79c1-a0eb-43e9-87da-f64a9e08cbf2/dur8gy-2286eb12-d672-4f75-b157-0ccd27d33bf5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM3M2Q3OWMxLWEwZWItNDNlOS04N2RhLWY2NGE5ZTA4Y2JmMlwvZHVyOGd5LTIyODZlYjEyLWQ2NzItNGY3NS1iMTU3LTBjY2QyN2QzM2JmNS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.zAzDYnP2AITJW-OZufxBpQpkT4YMSyVdGhEeVR_2jL4)
 
 Although I'm a fullstack web developer, I like dabbling in other technologies and learning new things! (My background is actually in Electrical & Electronics Engineering). I also am interested in Robotics, Machine Learning and Game Development.
 
-Skills: MERN Stack (React, Express, Node, Mongodb) / Firebase / HTML / CSS / JS (ES6+)
+Skills: MERN Stack (React, Express, Node, Mongodb) / Firebase / HTML / CSS / SCSS / JS (ES6+) / Tailwind
 
 -   🔭 I’m currently working on an Online Tutoring Platform
 -   🌱 I’m currently learning Chakra UI
