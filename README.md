@@ -4,14 +4,12 @@
 
 ![I am a Web Developer!](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/373d79c1-a0eb-43e9-87da-f64a9e08cbf2/dur8gy-2286eb12-d672-4f75-b157-0ccd27d33bf5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM3M2Q3OWMxLWEwZWItNDNlOS04N2RhLWY2NGE5ZTA4Y2JmMlwvZHVyOGd5LTIyODZlYjEyLWQ2NzItNGY3NS1iMTU3LTBjY2QyN2QzM2JmNS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.zAzDYnP2AITJW-OZufxBpQpkT4YMSyVdGhEeVR_2jL4)
 
-I'm an engineer who likes learning and experimenting with new things! My background is actually in Electrical & Electronics Engineering (did my undegraduate studies @ the University of Bath). I also am interested in Robotics, Machine Learning and Game Development.
 
-Skills: MERN Stack (React, Express, Node, Mongodb) / Firebase / HTML / CSS / SCSS / JS (ES6+) / Tailwind
+I'm currently working as a Full Stack Web Developer. Although I initially specialised in Electrical & Electronics Engineering during University, I developed a greater interest in coding through out my years. I specialise in Web Development, but also have experience working on Data Science projects and Mobile App Development.
 
--   🔭 I’m currently working on an RKTutors, an Online Tutoring Platform
--   🌱 I’m interested in learning Chakra UI
--   📫 How to reach me: Email or Message Me!
--   ⚡ Fun fact: I'm also an Amateur MMA Fighter!
+Skills: HTML, CSS, JavaScript (ES6+), React, Next, Vue, Node,  Firebase, Python, PHP, WordPress
+
+📫 How to reach me: Email or Message Me!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rakibkhan.netlify.app/)&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LombaxTech) &nbsp;&nbsp;&nbsp;
